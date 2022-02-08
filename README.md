@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishaan011
+- 👋 Hi, I’m Ishaan
 - 👀 I’m interested in Data Sciences
 - 🌱 I’m currently learning Python and Deep Learning
 - 📫 How to reach me Email: ishaansharma011@gmail.com  Phone: 9478744502
